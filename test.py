@@ -38,3 +38,5 @@ while True:
     cv2.imshow('eye controlled mouse', frame)
     cv2.waitKey(1)
         
+        
+        #print(landmarks)
